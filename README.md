@@ -43,8 +43,8 @@ healthcare environment and actively seeking my first dedicated
 
 | Project | Type | Tools |
 |---|---|---|
-| 🔗 [ServeRest API Testing](https://github.com/gislaine-venancio/ServeRest_API-testing) | API Testing | Postman, Jira, Excel |
-| 🔗 [Project name] | Manual Testing | Jira, Test Cases |
+| 🔗 [ServeRest API Testing](https://github.com/gislaine-venancio/ServeRest_API-testing) | Manual API Testing | Postman, Jira, Excel |
+| 🔗 [ServeRest Automation Pytest](https://github.com/gislaine-venancio/ServeRest-Automation-Pytest) | Test Automation | Python, Pytest |
 | 🔗 [Project name] | Performance Testing | JMeter |
 | 🔗 [Project name] | SQL Data Validation | MySQL |
 
