@@ -1,5 +1,7 @@
 # Gislaine Venancio — QA Engineer
 
+![Profile Views](https://komarev.com/ghpvc/?username=gislaine-venancio&color=blue&style=flat)
+
 ![Manual Testing](https://img.shields.io/badge/Manual-Testing-blue?style=for-the-badge)
 ![API Testing](https://img.shields.io/badge/API-Postman-orange?style=for-the-badge)
 ![Performance](https://img.shields.io/badge/Performance-JMeter-red?style=for-the-badge)
@@ -19,7 +21,7 @@ Healthcare, Manufacturing, and Food Safety.
 That background is what shapes how I approach software quality:
 I don't just find bugs — I think about **risk, process, and prevention**.
 
-Currently building my QA portfolio while working in a regulated
+Continuously expanding my QA portfolio while working in a regulated
 healthcare environment and actively seeking my first dedicated
 **QA Engineer role in Ireland or remote**.
 
@@ -44,7 +46,7 @@ healthcare environment and actively seeking my first dedicated
 | Project | Type | Tools |
 |---|---|---|
 | 🔗 [ServeRest API Testing](https://github.com/gislaine-venancio/ServeRest_API-testing) | Manual API Testing | Postman, Jira, Excel |
-| 🔗 [ServeRest Automation Pytest](https://github.com/gislaine-venancio/ServeRest-Automation-Pytest) | Test Automation | Python, Pytest |
+| 🔗 [ServeRest Automation Pytest](https://github.com/gislaine-venancio/ServeRest_Automation_Pytest) | Test Automation | Python, Pytest |
 | 🔗 [Project name] | Performance Testing | JMeter |
 | 🔗 [Project name] | SQL Data Validation | MySQL |
 
