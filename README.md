@@ -1,5 +1,4 @@
 # Gislaine Venancio — QA Engineer
-![Profile Views](https://komarev.com/ghpvc/?username=gislaine-venancio&color=blue&style=flat)
 ![Manual Testing](https://img.shields.io/badge/Manual-Testing-blue?style=for-the-badge)
 ![API Testing](https://img.shields.io/badge/API-Postman-orange?style=for-the-badge)
 ![Performance](https://img.shields.io/badge/Performance-JMeter-red?style=for-the-badge)
@@ -11,10 +10,12 @@
 ---
 ## 👋 Hi, I'm Gislaine
 I'm a QA Engineer based in **Turin, Italy 🇮🇹**, with a background that combines software testing with over **10 years of experience in quality systems, risk analysis, and compliance** in regulated industries — Healthcare, Manufacturing, and Food Safety.
-That background is what shapes how I approach software quality:
-I don't just find bugs — I think about **risk, process, and prevention**.
-Currently expanding my technical foundations through **La Piscine at 42 Firenze**, an intensive C-based coding program deepening my low-level programming and problem-solving skills.
-Continuously expanding my QA portfolio while working in a regulated healthcare environment and actively seeking my next **QA Engineer role in Italy or remote**.
+
+That background is what shapes how I approach software quality: I don't just find bugs — I think about **risk, process, and prevention**.
+
+Starting **La Piscine at 42 Firenze in July 2026**, an intensive C-based coding program to deepen my low-level programming and problem-solving skills.
+
+Actively building my QA portfolio while working in a regulated healthcare environment, and open to my next **QA Engineer role in Italy or remote**.
 ---
 ## 🧪 What I Work With
 | Area | Tools & Skills |
