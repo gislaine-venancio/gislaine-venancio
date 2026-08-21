@@ -4,6 +4,7 @@
 ![API Testing](https://img.shields.io/badge/API-Postman-orange?style=for-the-badge)
 ![Performance](https://img.shields.io/badge/Performance-JMeter-red?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Pytest-yellow?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Data_Validation-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)
 ![Agile](https://img.shields.io/badge/Agile-Scrum-purple?style=for-the-badge)
 ![Italy](https://img.shields.io/badge/Based_in-Italy-green?style=for-the-badge)
@@ -45,9 +46,9 @@ Actively building my QA portfolio and open to my next **QA Engineer role in Ital
 |---|---|---|---|
 | 🔗 [ServeRest API Testing](https://github.com/gislaine-venancio/ServeRest_API-testing) | Manual API Testing | 44 test cases · 3 bugs tracked in Jira | Postman, Jira, Excel |
 | 🔗 [ServeRest Automation Pytest](https://github.com/gislaine-venancio/ServeRest_Automation_Pytest) | Test Automation | 37 automated tests · 0 failures · HTML report | Python, Pytest |
-| 🚧 Library Management API *(In Progress)* | Full Stack + QA | REST API with book loans, fines, email notifications and user authentication | Python, Django, Pytest |
-| 🚧 Performance Testing Project | Performance Testing | In Progress | JMeter |
-| 🚧 SQL Data Validation Project | Data Validation | In Progress | MySQL, PostgreSQL |
+| 🔗 [ServeRest Performance Testing](https://github.com/gislaine-venancio/ServeRest-Performance-Testing) | Performance Testing | 4 API endpoints · 1 vs. 100 concurrent users comparison | JMeter |
+| 🚧 Website Testing Project *(In Progress)* | Website Testing | Tools not yet defined | TBD |
+| 🚧 SQL Data Validation Project *(In Progress)* | Data Validation | Tools not yet defined | MySQL, PostgreSQL |
 
 > More projects being added regularly.
 
