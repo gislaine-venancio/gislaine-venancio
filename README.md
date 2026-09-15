@@ -46,8 +46,8 @@ Actively building my QA portfolio and open to my next **QA Engineer role in Ital
 |---|---|---|---|
 | 🔗 [ServeRest API Testing](https://github.com/gislaine-venancio/ServeRest_API-testing) | Manual API Testing | 44 test cases · 3 bugs tracked in Jira | Postman, Jira, Excel |
 | 🔗 [ServeRest Automation Pytest](https://github.com/gislaine-venancio/ServeRest_Automation_Pytest) | Test Automation | 37 automated tests · 0 failures · HTML report | Python, Pytest |
-| 🔗 [ServeRest Performance Testing](https://github.com/gislaine-venancio/ServeRest-Performance-Testing) | Performance Testing | 4 API endpoints · 1 vs. 100 concurrent users comparison | JMeter |
-| 🚧 Website Testing Project *(In Progress)* | Website Testing | Tools not yet defined | TBD |
+| 🔗 [ServeRest Performance Testing](https://github.com/gislaine-venancio/ServeRest-Performance-Testing) | Performance Testing | 5 API endpoints · 1 vs. 50 vs. 100 concurrent users comparison | JMeter |
+| 🚧 Saucedemo UI - Website Testing  *(In Progress)* | Website Testing | Tools not yet defined | Python, Pytest, Playwright |
 | 🚧 SQL Data Validation Project *(In Progress)* | Data Validation | Tools not yet defined | MySQL, PostgreSQL |
 
 > More projects being added regularly.
