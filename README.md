@@ -3,7 +3,8 @@
 ![Manual Testing](https://img.shields.io/badge/Manual-Testing-blue?style=for-the-badge)
 ![API Testing](https://img.shields.io/badge/API-Postman-orange?style=for-the-badge)
 ![Performance](https://img.shields.io/badge/Performance-JMeter-red?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Pytest-yellow?style=for-the-badge)
+![Test Automation](https://img.shields.io/badge/Test_Automation-Python_%7C_Pytest_%7C_Playwright-yellow?style=for-the-badge&logo=python&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Data_Validation-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)
 ![Agile](https://img.shields.io/badge/Agile-Scrum-purple?style=for-the-badge)
@@ -30,7 +31,8 @@ Actively building my QA portfolio and open to my next **QA Engineer role in Ital
 |---|---|
 | Manual & Regression Testing | Test case design, exploratory testing, Jira |
 | API Testing | Postman, REST APIs, status codes, negative testing |
-| Test Automation | Python, Pytest, session fixtures, HTML reports |
+| Test Automation | Python, Pytest, Playwright, session fixtures, HTML reports |
+| CI/CD | GitHub Actions |
 | Performance Testing | JMeter, load testing, response time analysis |
 | Data Validation | SQL, MySQL, PostgreSQL |
 | Algorithmic Foundations | C, shell scripting, debugging *(42 Firenze — La Piscine)* |
@@ -47,7 +49,7 @@ Actively building my QA portfolio and open to my next **QA Engineer role in Ital
 | 🔗 [ServeRest API Testing](https://github.com/gislaine-venancio/ServeRest_API-testing) | Manual API Testing | 44 test cases · 3 bugs tracked in Jira | Postman, Jira, Excel |
 | 🔗 [ServeRest Automation Pytest](https://github.com/gislaine-venancio/ServeRest_Automation_Pytest) | Test Automation | 37 automated tests · 0 failures · HTML report | Python, Pytest |
 | 🔗 [ServeRest Performance Testing](https://github.com/gislaine-venancio/ServeRest-Performance-Testing) | Performance Testing | 5 API endpoints · 1 vs. 50 vs. 100 concurrent users comparison | JMeter |
-| 🚧 Saucedemo UI - Website Testing  *(In Progress)* | Website Testing | Tools not yet defined | Python, Pytest, Playwright |
+| 🔗 [SauceDemo — UI Manual and Automated Testing](https://github.com/gislaine-venancio/SauceDemo---UI-manual-and-automated-testing) | Manual + Automated UI Testing | 37 manual test cases · 31 automated tests, 100% pass rate · CI/CD with GitHub Actions | Python, Pytest, Playwright, GitHub Actions |
 | 🚧 SQL Data Validation Project *(In Progress)* | Data Validation | Tools not yet defined | MySQL, PostgreSQL |
 
 > More projects being added regularly.
