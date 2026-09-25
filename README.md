@@ -50,7 +50,6 @@ Actively building my QA portfolio and open to my next **QA Engineer role in Ital
 | 🔗 [ServeRest Automation Pytest](https://github.com/gislaine-venancio/ServeRest_Automation_Pytest) | Test Automation | 37 automated tests · 0 failures · HTML report | Python, Pytest |
 | 🔗 [ServeRest Performance Testing](https://github.com/gislaine-venancio/ServeRest-Performance-Testing) | Performance Testing | 5 API endpoints · 1 vs. 50 vs. 100 concurrent users comparison | JMeter |
 | 🔗 [SauceDemo — UI Manual and Automated Testing](https://github.com/gislaine-venancio/SauceDemo---UI-manual-and-automated-testing) | Manual + Automated UI Testing | 37 manual test cases · 31 automated tests, 100% pass rate · CI/CD with GitHub Actions | Python, Pytest, Playwright, GitHub Actions |
-| 🚧 SQL Data Validation Project *(In Progress)* | Data Validation | Tools not yet defined | MySQL, PostgreSQL |
 
 > More projects being added regularly.
 
